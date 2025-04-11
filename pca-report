@@ -1,0 +1,158 @@
+
+--- Individual Audio Reports ---
+
+📄 File: common_voice_en_42693784.wav
+  Cluster: 0 → 🟢 Low Risk: Likely fluent, consistent speech
+  duration: 5.94
+  tempo: 125.00
+  pitch_variability: 166203.79
+  word_count: 11.00
+  pauses: 0.00
+  hesitations: 0.00
+  speech_rate: 0.18
+  cluster: 0.00
+  pca1: -0.68
+  pca2: -1.33
+
+📄 File: common_voice_en_42693841.wav
+  Cluster: 0 → 🟢 Low Risk: Likely fluent, consistent speech
+  duration: 5.11
+  tempo: 133.93
+  pitch_variability: 135030.95
+  word_count: 13.00
+  pauses: 0.00
+  hesitations: 0.00
+  speech_rate: 0.22
+  cluster: 0.00
+  pca1: -1.19
+  pca2: -1.74
+
+📄 File: common_voice_en_42693855.wav
+  Cluster: 0 → 🟢 Low Risk: Likely fluent, consistent speech
+  duration: 6.01
+  tempo: 187.50
+  pitch_variability: 194436.77
+  word_count: 11.00
+  pauses: 0.00
+  hesitations: 0.00
+  speech_rate: 0.18
+  cluster: 0.00
+  pca1: -1.18
+  pca2: 0.02
+
+📄 File: common_voice_en_42693856.wav
+  Cluster: 1 → 🔴 High Risk: Signs of hesitations, pitch variability, slower pace
+  duration: 2.84
+  tempo: 101.35
+  pitch_variability: 250812.11
+  word_count: 6.00
+  pauses: 0.00
+  hesitations: 0.00
+  speech_rate: 0.10
+  cluster: 1.00
+  pca1: 3.61
+  pca2: -0.32
+
+📄 File: common_voice_en_42693864.wav
+  Cluster: 0 → 🟢 Low Risk: Likely fluent, consistent speech
+  duration: 5.76
+  tempo: 197.37
+  pitch_variability: 295576.21
+  word_count: 12.00
+  pauses: 0.00
+  hesitations: 0.00
+  speech_rate: 0.20
+  cluster: 0.00
+  pca1: -1.26
+  pca2: 1.85
+
+📄 File: common_voice_en_42693865.wav
+  Cluster: 0 → 🟢 Low Risk: Likely fluent, consistent speech
+  duration: 6.70
+  tempo: 178.57
+  pitch_variability: 271875.29
+  word_count: 14.00
+  pauses: 0.00
+  hesitations: 0.00
+  speech_rate: 0.23
+  cluster: 0.00
+  pca1: -2.13
+  pca2: 1.41
+
+📄 File: common_voice_en_42693871.wav
+  Cluster: 1 → 🔴 High Risk: Signs of hesitations, pitch variability, slower pace
+  duration: 4.46
+  tempo: 83.33
+  pitch_variability: 408759.55
+  word_count: 8.00
+  pauses: 0.00
+  hesitations: 0.00
+  speech_rate: 0.13
+  cluster: 1.00
+  pca1: 2.92
+  pca2: 2.35
+
+📄 File: common_voice_en_42693876.wav
+  Cluster: 0 → 🟢 Low Risk: Likely fluent, consistent speech
+  duration: 7.52
+  tempo: 129.31
+  pitch_variability: 204714.16
+  word_count: 15.00
+  pauses: 0.00
+  hesitations: 0.00
+  speech_rate: 0.25
+  cluster: 0.00
+  pca1: -2.48
+  pca2: -0.24
+
+📄 File: common_voice_en_42693883.wav
+  Cluster: 0 → 🟢 Low Risk: Likely fluent, consistent speech
+  duration: 5.40
+  tempo: 85.23
+  pitch_variability: 144855.21
+  word_count: 11.00
+  pauses: 0.00
+  hesitations: 0.00
+  speech_rate: 0.18
+  cluster: 0.00
+  pca1: -0.20
+  pca2: -2.31
+
+📄 File: common_voice_en_42693884.wav
+  Cluster: 0 → 🟢 Low Risk: Likely fluent, consistent speech
+  duration: 6.34
+  tempo: 163.04
+  pitch_variability: 265565.28
+  word_count: 13.00
+  pauses: 0.00
+  hesitations: 0.00
+  speech_rate: 0.22
+  cluster: 0.00
+  pca1: -1.56
+  pca2: 0.99
+
+📄 File: common_voice_en_42693885.wav
+  Cluster: 1 → 🔴 High Risk: Signs of hesitations, pitch variability, slower pace
+  duration: 2.45
+  tempo: 120.97
+  pitch_variability: 221391.81
+  word_count: 4.00
+  pauses: 0.00
+  hesitations: 0.00
+  speech_rate: 0.07
+  cluster: 1.00
+  pca1: 4.16
+  pca2: -0.68
+
+--- Clustering Centers ---
+                       duration     tempo  pitch_variability  word_count  \
+Cluster 0 (Low Risk)   0.525369  0.345090          -0.304815    0.545468   
+Cluster 1 (High Risk) -1.400985 -0.920241           0.812840   -1.454581   
+
+                       pauses  hesitations  speech_rate   cluster      pca1  \
+Cluster 0 (Low Risk)      0.0          0.0     0.545468 -0.612372 -0.587389   
+Cluster 1 (High Risk)     0.0          0.0    -1.454581  1.632993  1.566370   
+
+                           pca2  
+Cluster 0 (Low Risk)  -0.117867  
+Cluster 1 (High Risk)  0.314312 
